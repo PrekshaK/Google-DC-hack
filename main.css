@@ -1,0 +1,33 @@
+ html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        background-color: #0099CC;
+      }
+.header{
+	color:WHITE;
+	font-family: monospace;
+	font-size: 300%;
+	margin-left: 600px;
+
+}
+.title{
+	color:WHITE;
+	font-family: sans-serif;
+	margin-left: 40px;
+	font-size: 
+}
+#map {
+	margin-left: 100px;
+	margin-right: 20px;
+    height: 70%;
+    width: 80%;
+}
+.placeholder {
+	color: BLACK;
+}
+.dragdealer{
+	margin-left: 100px;
+	width: 80%;
+}
+

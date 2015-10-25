@@ -1,7 +1,4 @@
 
-
-
-
 $(function() {
   new Dragdealer('main-slider', {
     // Allow page to be opened with the test results directly
@@ -17,3 +14,4 @@ $(function() {
     }
   });
 });
+
